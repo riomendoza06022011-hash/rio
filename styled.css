@@ -1,0 +1,51 @@
+body{
+    background-color:#e2dcf2;
+}
+
+h2{
+   background-color:#619cba;
+   font-family: New Times Roman;
+    text-align: center;
+}
+
+div {
+    font-family: Arial;
+    background-color: #b1e09d;
+    color: #2d0680;
+}
+
+.span1 {
+    color: blue;
+}
+
+.span2 {
+    color: green;
+}
+
+.span3 {
+    color: orange;
+}
+
+.span4 {
+    color: #4cb584;
+}
+
+.span5 {
+    color: red;
+}
+
+.span6 {
+    color: brown;
+}
+
+.span7 {
+    color: teal;
+}
+
+.span8 {
+    color: #c28865;
+}
+
+.span9 {
+    color: gray;
+}
